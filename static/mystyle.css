@@ -1,0 +1,130 @@
+.ab
+{
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+    font-family: Montserrat;
+    font-style: italic;
+    text-align: center;
+
+}
+
+
+.cd
+{
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 2;
+    font-family: Montserrat;
+
+}
+
+h2
+{
+    font-size: 30px;
+    font-weight: bold;
+    color:#4682B4;
+    font-family: Montserrat;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.body-style
+{
+    background-color: #CCFFFF;
+    font-family: Montserrat;
+    margin: 0;
+    text-align: center;
+}
+.heading
+{
+    color: #357EC7;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 0;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Montserrat;
+}
+
+hr{
+    border: dotted #848482 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto 100px auto;
+}
+
+.headr
+{
+    color: black;
+    font-size: 80px;
+    margin-top: 50px;
+    margin-right: 450px;
+    font-family: Open Sans;
+    font-weight: bold;
+    line-height: 2;
+    text-align: center;
+}
+
+.img
+{
+    max-width: 100px;
+    max-height: 200px;
+    float: left;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.carousel-item
+{
+    height:500px;
+    width: 1000px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.giphy
+{
+    max-width: 200px;
+    max-height: 500px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 5px solid;
+}
+
+.giphy1
+{
+    max-height: 280px;
+    max-width: 600px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 5px solid;
+}
+.img-1
+{
+    max-height: 300px;
+    max-width: 400px;
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 5px solid;
+
+}
+.top-container
+{
+    background-color: #CCFFFF;
+}
+
+.mid-container
+{
+    background-color: #F0F8FF;
+}
+
+
